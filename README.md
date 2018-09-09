@@ -21,7 +21,7 @@ Content of this branch reflects that instance and it's settings.
     git clone https://github.com/brmlab/brmkan.git
     cd brmkan
     ```
-1. Checkout `brmkan` branch:
+1. Checkout `brmkan-test` branch:
     ```bash
     git checkout brmkan
     ```
